@@ -75,3 +75,14 @@
 #  C++isFunuFsi++C                                                                                                       
 # C++isFun!nuFsi++C
 
+
+#thinking
+
+# Get the input from the user and store it in a std::string variable
+# Loop for each letter in the string entered by the user
+#     Determine how many blank spaces must be displayed before the current row and display them
+#     Determine how many letters must be displayed before the current character and display them
+#     Display the current character
+#     Display the remaining characters in reverse order
+#     Complete the row with a new line
+
