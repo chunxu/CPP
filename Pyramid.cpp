@@ -1,4 +1,4 @@
-Write a C++ program that displays a Letter Pyramid from a user-provided std::string.
+//Write a C++ program that displays a Letter Pyramid from a user-provided std::string.
 
 // Prompt the user to enter a std::string and then from that string display a Letter Pyramid as follows:
 
